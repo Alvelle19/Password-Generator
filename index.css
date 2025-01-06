@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+#title-green{
+    color: #10B981;
+}
+#title-white{
+    color: white;
+}
+
+#password{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    margin-top: 50px;
+    height: 100vh;
+}
+
+html {
+    background-color: #1C1C1C;
+    text-align: center;
+}
+
+p{
+    color: whitesmoke;
+    margin-top: 0px;
+}
+
+button{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    padding: 9px 17px 9px 15px;
+    gap: 12px; 
+    background-color: #10B981; 
+    border-radius: 6px;
+    
+}
+
+#password1{
+    margin-top: 30px;
+    width: 300px;
+    height: 39px;
+    border-radius: 6px;
+    background-color: #273549;
+}
